@@ -1,0 +1,34 @@
+{
+  "test_preprocess": {
+    "vocab_length": 1804
+  },
+  "test_lm": {
+    "english_2_gram_length": 748,
+    "english_3_gram_length": 8238,
+    "french_3_gram_length": 8285,
+    "spanish_3_gram_length": 8468
+  },
+  "test_eval": {
+    "english_on_english": 8.95,
+    "english_on_french": 8.87,
+    "english_on_spanish": 10.5
+  },
+  "test_match": {
+    "df_shape": [
+      256,
+      4
+    ],
+    "en_en_1": 38.794470266056855,
+    "tl_tl_1": 40.904097447897584,
+    "tl_nl_4": 3.4950081325754825
+  },
+  "test_generate": {
+    "english_2_gram": "I amoulpe\u2026\u0000RCrkee bie ae",
+    "english_3_gram": "I amit\u0000",
+    "english_4_gram": "I Love Fakeing: You make b",
+    "spanish_2_gram": "Soyell\u00eds\u00edcipegucosie eL",
+    "spanish_3_gram": "Soye uscreakadador que\u00f1",
+    "french_2_gram": "Je suis:/kgny qGex qui @L T",
+    "french_3_gram": "Je suis tubeet ARadAerry @h"
+  }
+}
