@@ -1,0 +1,32 @@
+{
+  "test_preprocess": {
+    "vocab_length": 1804
+  },
+  "test_lm": {
+    "english_2_gram_length": 748,
+    "english_3_gram_length": 8239,
+    "french_3_gram_length": 8286,
+    "spanish_3_gram_length": 8469
+  },
+  "test_eval": {
+    "en_en": 398.852232677879,
+    "en_fr": 438.35719981624595,
+    "en_tl": 426.78913144458573,
+    "en_nl": 432.48376365187465
+  },
+  "test_match": {
+    "en_en_3": 398.852232677879,
+    "en_tl_3": 426.78913144458573,
+    "en_nl_3": 432.48376365187465
+  },
+  "test_generate": {
+    "english_1_gram": "I",
+    "english_2_gram": "I amVrXGpKS\u2026IZro!\ud83c\udf89\ud83d\ude01",
+    "english_3_gram": "I amRm4ys8a",
+    "english_4_gram": "I Love,\u2026 h\u2026 ht\u2026 mage,  & A",
+    "spanish_2_gram": "SoyLN2\u00b0C/tA)S\u00c9Sn.9ta_h!",
+    "spanish_3_gram": "SoyMB NT\u00c9RAKeSoO7 vo??.",
+    "french_2_gram": "Je suisPB2-O\u00ae 'FvYPTVkErny\u00bb",
+    "french_3_gram": "Je suis] -pl1932%. TahPLAS3"
+  }
+}
