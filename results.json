@@ -4,31 +4,29 @@
   },
   "test_lm": {
     "english_2_gram_length": 748,
-    "english_3_gram_length": 8238,
-    "french_3_gram_length": 8285,
-    "spanish_3_gram_length": 8468
+    "english_3_gram_length": 8239,
+    "french_3_gram_length": 8286,
+    "spanish_3_gram_length": 8469
   },
   "test_eval": {
-    "english_on_english": 8.95,
-    "english_on_french": 8.87,
-    "english_on_spanish": 10.5
+    "en_en": 2.9902872847445576,
+    "en_fr": 3.8503340963411565,
+    "en_tl": 4.114527900063265,
+    "en_nl": 3.9250954737994013
   },
   "test_match": {
-    "df_shape": [
-      256,
-      4
-    ],
-    "en_en_1": 38.794470266056855,
-    "tl_tl_1": 40.904097447897584,
-    "tl_nl_4": 3.4950081325754825
+    "en_en_3": 2.9902872847445576,
+    "en_tl_3": 4.114527900063265,
+    "en_nl_3": 3.9250954737994013
   },
   "test_generate": {
-    "english_2_gram": "I amoulpe\u2026\u0000RCrkee bie ae",
-    "english_3_gram": "I amit\u0000",
-    "english_4_gram": "I Love Fakeing: You make b",
-    "spanish_2_gram": "Soyell\u00eds\u00edcipegucosie eL",
-    "spanish_3_gram": "Soye uscreakadador que\u00f1",
-    "french_2_gram": "Je suis:/kgny qGex qui @L T",
-    "french_3_gram": "Je suis tubeet ARadAerry @h"
+    "english_1_gram": "II\u306f\ud83d\udc85\ud83c\udf73\u2614\u30e5\ub354\u06f6\u0e15\ud83c\udf65\uff53\ud83e\udd10\u26c4\ud83d\udc8b\u041e\u597d\u0eb6\u0420\ud83d\udd92\u0e27",
+    "english_2_gram": "I am blin @t A @SEofAMon",
+    "english_3_gram": "I ame vidn't New by Somo",
+    "english_4_gram": "I Lovely 3/24<end>\uc640\ud83c\udf06\u7e4b\ud0b9\ud83c\udf28\ud83c\udfc0\u307f\u0627\ud83d\udc02\u753b\u2613\u0418",
+    "spanish_2_gram": "Soyaduenttesuefracocela",
+    "spanish_3_gram": "Soy vo en @_Basparra en",
+    "french_2_gram": "Je suisue @Ge ciura d'ARHAr",
+    "french_3_gram": "Je suis ava fa0G4m3AFlA: La"
   }
 }
